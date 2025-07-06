@@ -2,6 +2,13 @@
 
 A modern, responsive web application that helps users find the best prices across multiple retailers instantly. Built with Next.js, TypeScript, and Tailwind CSS.
 
+## Recorded Demo
+
+🎥 **[Watch Demo Video](https://drive.google.com/file/d/1uuSt0wJa9y5S4n2kRCTOjkulEm_OhT43/view?usp=sharing)**
+
+*Click the link above to see the API in action with live product searches across multiple retailers.*
+
+
 ## Features
 
 - **Multi-Retailer Search**: Search for products across multiple online retailers simultaneously

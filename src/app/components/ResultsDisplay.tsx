@@ -60,7 +60,7 @@ export default function ResultsDisplay({ results, searchQuery }: ResultsDisplayP
             <div className="bg-white dark:bg-gray-800 rounded-2xl shadow-xl p-8 mb-8">
                 <div className="text-center">
                     <h2 className="text-3xl font-bold text-gray-800 dark:text-white mb-4">
-                        🎉 Found {results.length} Results for "{searchQuery}"
+                        🎉 Found {results.length} Results for &quot;{searchQuery}&quot;
                     </h2>
                     {sortedResults.length > 0 && hasValidPrices && (
                         <div className="bg-gradient-to-r from-green-50 to-emerald-50 dark:from-green-900/20 dark:to-emerald-900/20 border border-green-200 dark:border-green-800 rounded-xl p-6 inline-block">

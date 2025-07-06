@@ -74,7 +74,7 @@ export default function Home() {
           <div className="flex flex-col items-center justify-center py-12">
             <LoadingSpinner />
             <p className="text-gray-600 dark:text-gray-300 mt-4 text-lg">
-              Searching for "{searchQuery}"...
+              Searching for &quot;{searchQuery}&quot;...
             </p>
             <p className="text-gray-500 dark:text-gray-400 text-sm mt-2">
               This may take a few moments as we search across multiple retailers
